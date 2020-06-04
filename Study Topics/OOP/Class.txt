@@ -1,0 +1,6 @@
+CLASS:
+=====
+
+A class is a set of members which have similiar attributes and behaviour.
+A class members are often reffered to as "Objects". An object should have
+a specific attributes(data member) and behaviour(functions).

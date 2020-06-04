@@ -1,0 +1,1 @@
+OOP works on principles of inheritance and polymorphism
